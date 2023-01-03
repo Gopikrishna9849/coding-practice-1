@@ -1,0 +1,42 @@
+.main-heading {
+    text-align: center;
+    font-family: Robto;
+    color: #ffffff;
+    background-color: #323f4b;
+    font-size: 40px;
+    font-weight: 600;
+    padding: 18px;
+}
+
+.sravan-kumar {
+    text-align: right;
+    background-color: #47a3f3;
+    border-top-right-radius: 10px;
+    padding: 14px;
+    color: #ffffff;
+    font-family: Roboto;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    font-size: 20px;
+
+}
+
+.rahul {
+    font-family: Roboto;
+    color: #ffffff;
+    background-color: #52606d;
+    padding: 14px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 20px;
+
+}
+
+.image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+}
+
+.message {
+    padding: 20px;
+}
